@@ -15,12 +15,12 @@ NetMeter answers the questions your distro never does:
 ## Demo
 
 <p align="center">
-  <img src="docs/screenshots/dashboard.png" alt="NetMeter dashboard" width="860">
+  <img width="1918" height="1038" alt="dashboard" src="https://github.com/user-attachments/assets/45403058-60ba-4419-af3c-70da4689c406" />
   <br><em>Dashboard: live speed, usage since boot / today / month, top apps today</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/inspector.png" alt="NetMeter packet inspector" width="860">
+  <img width="1918" height="1038" alt="inspector" src="https://github.com/user-attachments/assets/ff8dd2c6-6cfa-4c9d-a616-4a1a966ed248" />
   <br><em>Inspector: live packets, DNS / TLS SNI / HTTP decoding, hex dump, follow flow</em>
 </p>
 
